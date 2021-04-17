@@ -1,5 +1,5 @@
 # imageSearch 🍕
-An image searching React based application that optimise the browser window space.
+An image searching React based application that optimise the browser window space 😁
 
 # Link:
 https://ritik307.github.io/imageSearch/. 
